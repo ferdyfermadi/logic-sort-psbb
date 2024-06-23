@@ -11,9 +11,9 @@ One line of words (S)
 ## Output
 
 Contains vowel and consonant characters that has been sorted according to the following rules.
-● Sort the letters according to the order they came out
-● Separate between vowels and consonants.
-● Process as lowercase letters (whitespaces are ignored
+- Sort the letters according to the order they came out
+- Separate between vowels and consonants.
+- Process as lowercase letters (whitespaces are ignored
 
 ## Test Case
 
